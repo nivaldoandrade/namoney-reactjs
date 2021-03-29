@@ -1,4 +1,7 @@
-# <p align="center">NA money<p/>
+
+<h1 align="center">NA money</h1>
+
+<p align="center"><img src="https://github.com/nivaldoandrade/namoney-reactjs/blob/main/assestsREADME/namoney.gif" /></p>
 
 O namoney é um simples gerenciador de finanças, permitindo o cadastro de entrada e saída.
 
